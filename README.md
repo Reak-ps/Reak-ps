@@ -1,13 +1,13 @@
 <div align="center">
 
-# Reak
+# Octavian
 
 **C# developer — building servers, tools & utilities from scratch**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=C%23+is+my+main+language+now;Built+an+HTTP+server+from+scratch;No+frameworks%2C+no+bloat;Assembly%3F+Once.+Never+again.)](https://git.io/typing-svg)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reak-ps)
-[![Repositories](https://img.shields.io/badge/Repos-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Reak-ps?tab=repositories)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/octavian-ps)
+[![Repositories](https://img.shields.io/badge/Repos-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/octavian-ps?tab=repositories)
 
 </div>
 
@@ -53,10 +53,10 @@ I build things from scratch rather than reaching for a framework to do the hard 
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Crestline**](https://github.com/Reak-ps/Crestline) | Lightweight, cross-platform HTTP server written from scratch — raw sockets, no frameworks | C++ |
-| [**OnyxServer**](https://github.com/Reak-ps/OnyxServer) *(archived)* | Lightweight, high-performance static file server and reverse proxy | C# |
-| [**NEUTRON**](https://github.com/Reak-ps/NEUTRON) | A file organizer | C++ |
-| [**Discord-Live-Pc-RPC**](https://github.com/Reak-ps/Discord-Live-Pc-RPC) | Windows console app showing live CPU/RAM usage as Discord Rich Presence | C# |
+| [**Crestline**](https://github.com/octavian-ps/Crestline) | Lightweight, cross-platform HTTP server written from scratch — raw sockets, no frameworks | C++ |
+| [**OnyxServer**](https://github.com/octavian-ps/OnyxServer) *(archived)* | Lightweight, high-performance static file server and reverse proxy | C# |
+| [**NEUTRON**](https://github.com/octavian-ps/NEUTRON) | A file organizer | C++ |
+| [**Discord-Live-Pc-RPC**](https://github.com/octavian-ps/Discord-Live-Pc-RPC) | Windows console app showing live CPU/RAM usage as Discord Rich Presence | C# |
 
 <br>
 
@@ -64,11 +64,11 @@ I build things from scratch rather than reaching for a framework to do the hard 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Reak-ps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=octavian-ps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Reak-ps&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=octavian-ps&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Reak-ps&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=octavian-ps&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -78,6 +78,6 @@ I build things from scratch rather than reaching for a framework to do the hard 
 
 *"First, solve the problem. Then, write the code."*
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Reak-ps.Reak-ps)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=octavian-ps.octavian-ps)
 
 </div>
